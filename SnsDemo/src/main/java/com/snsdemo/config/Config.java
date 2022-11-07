@@ -24,8 +24,7 @@ public class Config {
     private String awsSecretKey;
 
 
-//    public static final String SECRET_KEY = "AKIAQYPJEIKTMQHDSXQQ";
-//    public static final String ACCESS_KEY = "cnZ32fKubMwH1zdUFLwWBLk2Mwh758sHVzasYOFq";
+
 
     @Primary
     @Bean
